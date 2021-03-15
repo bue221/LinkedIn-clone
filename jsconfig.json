@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@layouts/*": ["components/layouts/*"],
+      "@pages/*": ["components/pages/*"],
+      "@components/*": ["components/smallComponents/*"],
+      "@icons/*": ["components/assets/icons/*"],
+      "@images/*": ["components/assets/images/*"],
+      "@firebase/*": ["firebase/*"],
+      "@redux/*": ["redux/*"]
+    }
+  }
+}

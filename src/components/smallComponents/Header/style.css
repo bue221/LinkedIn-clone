@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+}
+
+.header_left {
+  display: flex;
+}
+
+.header_search {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 5px;
+  color: gray;
+  height: 22px;
+}
