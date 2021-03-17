@@ -1,0 +1,40 @@
+.input_write {
+  display: flex;
+  padding: 1em;
+  align-items: center;
+  gap: 1em;
+}
+
+.create_post {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: #eef3f8;
+  padding: 0.3em;
+  border-radius: 1em;
+}
+
+.create_post > input {
+  outline: none;
+  border: none;
+  background-color: #eef3f8;
+  font-size: 15px;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  margin-bottom: 0.8em;
+}
+
+.container_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.error {
+  color: red;
+}

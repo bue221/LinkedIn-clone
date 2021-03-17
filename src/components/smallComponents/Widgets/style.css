@@ -1,0 +1,11 @@
+.widgets_header {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.widgets {
+  position: sticky;
+  height: fit-content;
+  top: 80px;
+}

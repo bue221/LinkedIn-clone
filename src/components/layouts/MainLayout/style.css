@@ -1,0 +1,12 @@
+.app-body {
+  display: flex;
+  background: gainsboro;
+  padding-left: 3em;
+  padding-right: 3em;
+  height: 100vh;
+  padding-top: 1em;
+}
+
+body {
+  background: gainsboro;
+}

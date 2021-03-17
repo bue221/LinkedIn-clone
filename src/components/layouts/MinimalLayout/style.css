@@ -1,0 +1,17 @@
+.content {
+  height: auto;
+  padding: 3em;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+body {
+  background: gainsboro;
+}
+
+.Bodycontainer {
+  height: auto;
+  padding: 3em;
+}
